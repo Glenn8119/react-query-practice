@@ -16,9 +16,9 @@
       "alterEgo": "Princess Diana"
     },
     {
-      "id": 4,
-      "name": "Wonder Woma2",
-      "alterEgo": "Princess Dian"
+      "name": "flash",
+      "alterEgo": "barry-allen",
+      "id": 4
     }
   ],
   "friends": [
@@ -44,7 +44,11 @@
   "channels": [
     {
       "id": "codevolution",
-      "courses": ["react", "vue", "angular"]
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
     }
   ],
   "colors": [
